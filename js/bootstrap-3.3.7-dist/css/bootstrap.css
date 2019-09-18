@@ -90,7 +90,11 @@ svg:not(:root) {
   overflow: hidden;
 }
 figure {
+<<<<<<< HEAD
   margin: 1em 40px;
+=======
+  margin: 1rem .4rem;
+>>>>>>> bbff25a323ab7ff511f3e9830b910c581e329b6d
 }
 hr {
   height: 0;

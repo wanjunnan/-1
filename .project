@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>bootstrop项目</name>
+=======
+	<name>cat</name>
+>>>>>>> bbff25a323ab7ff511f3e9830b910c581e329b6d
 	<comment>Create By HBuilder</comment>
 	<projects>
 	</projects>
@@ -16,7 +20,11 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1567503747308</id>
+=======
+			<id>1568174317521</id>
+>>>>>>> bbff25a323ab7ff511f3e9830b910c581e329b6d
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -34,7 +42,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1567687473094</id>
+=======
+			<id>1568290824774</id>
+>>>>>>> bbff25a323ab7ff511f3e9830b910c581e329b6d
 			<name></name>
 			<type>26</type>
 			<matcher>
@@ -43,6 +55,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1567687473098</id>
 			<name></name>
 			<type>26</type>
@@ -89,6 +102,9 @@
 		</filter>
 		<filter>
 			<id>1568125763900</id>
+=======
+			<id>1568290824785</id>
+>>>>>>> bbff25a323ab7ff511f3e9830b910c581e329b6d
 			<name></name>
 			<type>26</type>
 			<matcher>
