@@ -1,0 +1,88 @@
+.top-nav{
+	height: 118px;
+	width: 100%;
+}
+.top-nav .top-nav-one img{
+	height: 118px;
+	width: 118px;
+}
+.top-nav .top-nav-one .img1{
+	height: 118px;
+	width: 118px;
+	text-align: center;
+}
+.top-nav .top-nav-one .img1 img{
+	height: 30px;
+	width: 30px;
+}
+.top-nav .top-nav-one .img2{
+	height: 118px;
+	width: 118px;
+	background: #e9e8e9;
+	
+}
+.top-nav .top-nav-one .img2 img{
+	height: 30px;
+	width: 30px;
+	margin-top: 34px;
+	margin-left: 45px;
+}
+.top-nav .top-nav-one .one{
+	margin-left: 120px;
+}
+.top-nav .top-nav-one .two, .three, .six, .sev{
+	margin-left: 40px;
+}
+.top-nav .top-nav-one .three, .four{
+	margin-right: 85px;
+}
+.top-nav .top-nav-one .eig{
+	width: 75px;
+	height: 118px;
+	background: #f9f9f9;
+}
+.container img{
+	width: 1056px;
+	height: 822px;
+	position: relative;
+	margin-left: 41px;
+}
+.tent-wold{
+	position: absolute;
+	padding-left: 33%;
+	margin-top: -46%;
+	font-size: 50px;
+	color: white;
+}
+ .tent-wold1{
+ 	margin-top: -40%;
+ 	padding-left: 28%;
+	position: absolute;
+	color: white;
+	font-size: 30px;
+}
+.cisco{
+	margin-top: -40%;
+ 	padding-left: 40%;
+	position: absolute;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+.content .button{
+	width: 60px;
+	height: 50px;
+}
+.all .small-wold{
+	color: #ccc;
+	margin-top:5%;
+	margin-bottom: 10px;
+	margin-left: 29%;
+}
+.all .big-wold{
+	margin-top: 5px;
+	margin-left: 10%;
+}
+.all .big-wold1{
+	margin-top: 5px;
+	margin-left: 29%;
+}
